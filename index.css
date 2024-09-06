@@ -10,4 +10,5 @@ button{
     background: gold;
     font-size: 3rem;
     color: aqua;
+    border-radius: 10%;
 }
